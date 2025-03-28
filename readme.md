@@ -46,12 +46,18 @@ root/
 
 ## 2. Clone the Repository
 
-``` git clone https://github.com/thaseenabbut/discord.js-bot-template.git ```
-``` cd discord.js-bot-template ```
+``` 
+git clone https://github.com/thaseenabbut/discord.js-bot-template.git 
+```
+``` 
+cd discord.js-bot-template 
+```
 
 ## 3. Install Dependencies
 
-``` npm install ```
+``` 
+npm install 
+```
 
 ## 4. Configure the Bot
 
@@ -60,9 +66,13 @@ root/
 
 ## 5. Start the Bot
 
-```node .```
+```
+node .
+```
 
-``` node index.js ```
+``` 
+node index.js 
+```
 
 ## 📜 License
 
