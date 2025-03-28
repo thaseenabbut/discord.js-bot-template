@@ -1,0 +1,17 @@
+{
+  "name": "djs-template",
+  "version": "1.0.0",
+  "description": "A fully customizable Discord bot template using Discord.js, supporting both slash and text commands with structured command handling, error management, and configurable settings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thaseenabbut",
+  "license": "This project is licensed under the MIT License – feel free to modify and distribute it!",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security"
+  }
+}
